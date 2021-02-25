@@ -1,2 +1,5 @@
 # bitcoin_mediapack
-Royalty-free imagery for media to stop using the confusing gold coin representation of Bitcoin. 
+Free imagery (CC-by license) for 
+mainstream media to stop using the 
+confusing gold coin representation 
+of Bitcoin. 
